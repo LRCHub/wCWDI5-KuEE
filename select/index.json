@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Summer Ride",
+  "base_artist": "LANA",
+  "createdAt": "2025-12-17T08:57:50.027866Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Summer Ride",
+      "artist": "SEVENUS",
+      "has_synced": true,
+      "path": "select/01_Summer_Ride_SEVENUS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Summer Ride (feat. ¥ellow Bucks)",
+      "artist": "LANA",
+      "has_synced": false,
+      "path": "select/02_Summer_Ride_(feat._¥ellow_Bucks)_LANA.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Summer Ride",
+      "artist": "timelesz",
+      "has_synced": true,
+      "path": "select/03_Summer_Ride_timelesz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Summer Ride（feat. ¥ellow Bucks）",
+      "artist": "LANA",
+      "has_synced": true,
+      "path": "select/04_Summer_Ride(feat._¥ellow_Bucks)_LANA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Summer Ride (feat. ¥ellow Bucks)",
+      "artist": "LANA",
+      "has_synced": false,
+      "path": "select/pl_01_Summer_Ride_(feat._¥ellow_Bucks)_LANA.txt"
+    }
+  ]
+}
